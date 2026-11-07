@@ -18,7 +18,7 @@ Desenvolvedor full stack com foco em front-end, estudando Análise e Desenvolvim
 | Projeto | O que é | Stack |
 | --- | --- | --- |
 | [portifolio](https://github.com/murilogpapa/portifolio) | Este portfólio ([murilogp.dev](https://murilogp.dev)), em estilo blueprint com tema claro e escuro | Next.js · TypeScript · Tailwind CSS |
-| [webgarage](https://github.com/murilogpapa/webgarage) | Site de concessionária com consulta de preços pela API da Tabela FIPE, feito em ADS | Angular · TypeScript |
+| [webgarage](https://github.com/murilogpapa/webgarage) | Site de concessionária com consulta de preços pela API da Tabela FIPE, Projeto Integrador do 2º semestre de ADS | Angular · TypeScript |
 | [PI-bcc-1sem](https://github.com/murilogpapa/PI-bcc-1sem) | Jogo web estilo runner, do 1º semestre de Ciência da Computação | p5.js · JavaScript |
 | [RPG-Tic-em-Trilhas](https://github.com/murilogpapa/RPG-Tic-em-Trilhas) | RPG de terminal ambientado em Midgard, do curso de Swift Tic em Trilhas | Swift |
 
