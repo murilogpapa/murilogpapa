@@ -28,8 +28,13 @@ Desenvolvedor full stack com foco em front-end, estudando Análise e Desenvolvim
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,angular,nodejs,supabase,postgres,mysql,mongodb,git,vercel,tauri,py,java,swift,ps,ae,pr,blender,arduino&perline=11&theme=light">
   <img alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Angular, Node.js, Supabase, PostgreSQL, MySQL, MongoDB, Git, Vercel, Tauri, Python, Java, Swift, Photoshop, After Effects, Premiere, Blender e Arduino" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,angular,nodejs,supabase,postgres,mysql,mongodb,git,vercel,tauri,py,java,swift,ps,ae,pr,blender,arduino&perline=11&theme=dark">
 </picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/ai-light.svg">
+  <img alt="Claude, Google Antigravity, Gemini, Grok e Ollama" src="assets/ai-dark.svg">
+</picture>
 
-Também uso Claude Code e agentes de IA no dia a dia, LLMs locais (llama.cpp, Ollama) e ESP32 para protótipos de IoT.
+IA no dia a dia: Claude Code e agentes, Google Antigravity, Gemini, Grok e LLMs locais (llama.cpp, Ollama). Também uso ESP32 para protótipos de IoT.
 
 ### Contato
 
